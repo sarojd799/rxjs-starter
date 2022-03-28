@@ -1,0 +1,2 @@
+1.unexpeted reserve word interface
+solution: Currently Node.js does not yet support ES6 module syntax, you need to have your module field in tsconfig.json to be commonjs
